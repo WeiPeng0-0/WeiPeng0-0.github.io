@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-12-13T03:19:19.559Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎光临,然后,enjoyYourself</title>
+    <link href="http://yoursite.com/2018/12/13/%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4-%E7%84%B6%E5%90%8E-enjoyYourself/"/>
+    <id>http://yoursite.com/2018/12/13/欢迎光临-然后-enjoyYourself/</id>
+    <published>2018-12-13T03:05:47.000Z</published>
+    <updated>2018-12-13T03:19:19.559Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pjim93lws.bkt.clouddn.com/%E7%BA%B8%E7%89%87%E4%BA%BA.jpg"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://pjim93lws.bkt.clouddn.com/%E7%BA%B8%E7%89%87%E4%BA%BA.jpg&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
